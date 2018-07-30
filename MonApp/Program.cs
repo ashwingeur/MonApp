@@ -10,6 +10,8 @@ namespace MonApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ma premiere application !!!");
+            Console.ReadKey();
         }
     }
 }
